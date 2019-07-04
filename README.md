@@ -135,3 +135,29 @@ Android Version 4.0 and up
 One Stop place for for all Software and Hardware information of your Device.
 Support and Technical Assistance:
 You can reach out to the developers via email available at the bottom of this app description. We would be glad to have your suggestions and feedback so that we can improve My Device and serve you better.
+
+## What's New
+
+#### Version 1.7.0
+```
+Thai language support.
+Bug fixes and performance improvements.
+```
+#### Version 1.6.0
+```
+Android Oreo Support
+New Share feature added.
+User and System App list sorted
+```
+#### Version 1.4.0,1.5.0
+Complete Camera information Added
+UI improvements.
+
+Version 1.3.0
+Know the details better- info help added
+New features added in feature Tab.
+Russian Language support
+
+Version 1.2.0 
+New Sensor Information Added 
+New Features information Added
