@@ -150,14 +150,18 @@ New Share feature added.
 User and System App list sorted
 ```
 #### Version 1.4.0,1.5.0
+```
 Complete Camera information Added
 UI improvements.
-
-Version 1.3.0
+```
+#### Version 1.3.0
+```
 Know the details better- info help added
 New features added in feature Tab.
 Russian Language support
-
-Version 1.2.0 
+```
+#### Version 1.2.0 
+```
 New Sensor Information Added 
 New Features information Added
+```
