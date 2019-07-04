@@ -5,6 +5,31 @@
 ## Store
 <a href='https://play.google.com/store/apps/details?id=com.anu.main.myandroid&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png' height="83" width="215" /></a>
 
+## Screenshots Ver. 1.7.0
+
+<img src="https://user-images.githubusercontent.com/18279724/60650146-2d44a300-9e61-11e9-880d-56d526c449ca.jpg" align="left" height="300" width="180" >
+
+<img src="https://user-images.githubusercontent.com/18279724/60650148-2ddd3980-9e61-11e9-933c-bf4d41cdc62a.jpg" align="left" height="300" width="180" >
+
+<img src="https://user-images.githubusercontent.com/18279724/60650151-2ddd3980-9e61-11e9-9197-686ca84f0f91.jpg" align="left" height="300" width="180" >
+
+<img src="https://user-images.githubusercontent.com/18279724/60650152-2e75d000-9e61-11e9-9910-6a91d9f797e2.jpg" align="left" height="300" width="180" >
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/18279724/60650154-2e75d000-9e61-11e9-9d4a-bb70bd4cb868.jpg" align="left" height="300" width="180" >
 
 ## Scope
 
@@ -165,28 +190,3 @@ Russian Language support
 New Sensor Information Added 
 New Features information Added
 ```
-## Screenshots Ver. 1.7.0
-
-<img src="https://user-images.githubusercontent.com/18279724/60650146-2d44a300-9e61-11e9-880d-56d526c449ca.jpg" align="left" height="300" width="180" >
-
-<img src="https://user-images.githubusercontent.com/18279724/60650148-2ddd3980-9e61-11e9-933c-bf4d41cdc62a.jpg" align="left" height="300" width="180" >
-
-<img src="https://user-images.githubusercontent.com/18279724/60650151-2ddd3980-9e61-11e9-9197-686ca84f0f91.jpg" align="left" height="300" width="180" >
-
-<img src="https://user-images.githubusercontent.com/18279724/60650152-2e75d000-9e61-11e9-9910-6a91d9f797e2.jpg" align="left" height="300" width="180" >
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/18279724/60650154-2e75d000-9e61-11e9-9d4a-bb70bd4cb868.jpg" align="left" height="300" width="180" >
