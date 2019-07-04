@@ -14,26 +14,26 @@ My Device is a powerful yet simple app that lets you know all the essential deta
 
 You can explore the..
 ### Device
-* ★ Manufacturer
-* ★ Brand
-★ Model
-★ Board Type
-★ Hardware
-★ Serial Number
-★ Android ID
-★ Screen Resolution
-★ Boot Loader
-★ Host
+* Manufacturer
+* Brand
+* Model
+* Board Type
+* Hardware
+* Serial Number
+* Android ID
+* Screen Resolution
+* Boot Loader
+* Host
 
 ### OS
-★ OS Version
-★ Release date
-★ Supported Status
-★ Version Number
-★ API Level
-★ Build ID
-★ Build Time
-★ Fingerprint
+* OS Version
+* Release date
+* Supported Status
+* Version Number
+* API Level
+* Build ID
+* Build Time
+* Fingerprint
 
 ### CPU
 ★ Memory Usage Detail graphical view
