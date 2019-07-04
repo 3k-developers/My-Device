@@ -14,8 +14,8 @@ My Device is a powerful yet simple app that lets you know all the essential deta
 
 You can explore the..
 ### Device
-★ Manufacturer
-★ Brand
+* ★ Manufacturer
+* ★ Brand
 ★ Model
 ★ Board Type
 ★ Hardware
@@ -57,7 +57,7 @@ You can explore the..
 ★ Temperature
 ★ Status
 
-** Storage**
+### Storage
 ★ Internal and External Detail Storage details
 ★ Used Storage
 ★ Free Storage
@@ -120,7 +120,7 @@ You can explore the..
 ★ SIP
 ★ SIP-based VOIP
 
-## User Apps & System Apps
+### User Apps & System Apps
 ★ List of all User Apps and System Apps
 ★ Package names
 ★ Easy open application
