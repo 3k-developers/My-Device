@@ -36,94 +36,94 @@ You can explore the..
 * Fingerprint
 
 ### CPU
-★ Memory Usage Detail graphical view
-★ CPU Model
-★ RAM Usages
-★ ABI
-★ CPU Variant
-★ Serial
-★ CPU Implementer
-★ CPU Port
-★ CPU Revision
-★ Hardware Model
-★ Other Features
+* Memory Usage Detail graphical view
+* CPU Model
+* RAM Usages
+* ABI
+* CPU Variant
+* Serial
+* CPU Implementer
+* CPU Port
+* CPU Revision
+* Hardware Model
+* Other Features
 
 ### Battery
-★ Battery Type
-★ Battery Health
-★ Battery Level
-★ Power Source
-★ Voltage
-★ Temperature
-★ Status
+* Battery Type
+* Battery Health
+* Battery Level
+* Power Source
+* Voltage
+* Temperature
+* Status
 
 ### Storage
-★ Internal and External Detail Storage details
-★ Used Storage
-★ Free Storage
-★ Total Storage
+* Internal and External Detail Storage details
+* Used Storage
+* Free Storage
+* Total Storage
 
 ### Network
-★ Connection Status
-★ Data Type
-★ Network Type
-★ IP Address
-★ MAC Address
-★ SSID
-★ Link Speed
+* Connection Status
+* Data Type
+* Network Type
+* IP Address
+* MAC Address
+* SSID
+* Link Speed
 
 ### Camera
-★ Camera detail Specifications
-★ Megapixels 
-★ Aspect Ratio
-★ White Balance
-★ Scene Mode
-★ ISO
-★ HDR
-★ lots more..
+* Camera detail Specifications
+* Megapixels 
+* Aspect Ratio
+* White Balance
+* Scene Mode
+* ISO
+* HDR
+* lots more..
 
 ### Sensors
-★ List all Sensors
-★ Sensor Name
-★ Int Type
-★ Vendor
-★ Version
-★ Resolution
-★ Power
-★ Maximum range
-★ Accurate real time readings from sensors
+* List all Sensors
+* Sensor Name
+* Int Type
+* Vendor
+* Version
+* Resolution
+* Power
+* Maximum range
+* Accurate real time readings from sensors
 
 ### Feature
-★ Checking all device features
-★ WIFI
-★ WIFI Direct
-★ Bluetooth
-★ Bluetooth LE
-★ GPS
-★ Camera Flash
-★ Camera Front
-★ Microphone
-★ NFC
-★ USB Host
-★ USB Accessory
-★ Multitouch
-★ Audio Low-Latency
-★ Audio Output
-★ Consumer IR
-★ Gamepad Support
-★ HIFI Sensors
-★ Printing
-★ CDMA
-★ GSM
-★ Professional Audio
-★ App Widgets
-★ SIP
-★ SIP-based VOIP
+* Checking all device features
+* WIFI
+* WIFI Direct
+* Bluetooth
+* Bluetooth LE
+* GPS
+* Camera Flash
+* Camera Front
+* Microphone
+* NFC
+* USB Host
+* USB Accessory
+* Multitouch
+* Audio Low-Latency
+* Audio Output
+* Consumer IR
+* Gamepad Support
+* HIFI Sensors
+* Printing
+* CDMA
+* GSM
+* Professional Audio
+* App Widgets
+* SIP
+* SIP-based VOIP
 
 ### User Apps & System Apps
-★ List of all User Apps and System Apps
-★ Package names
-★ Easy open application
+* List of all User Apps and System Apps
+* Package names
+* Easy open application
 
 
 and lots more..
