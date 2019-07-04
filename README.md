@@ -167,13 +167,13 @@ New Features information Added
 ```
 ## Screenshots Ver. 1.7.0
 
-<img src="https://github.wdf.sap.corp/storage/user/21882/files/34396ebe-7f79-11e8-840b-df3dad3e8cba" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60650146-2d44a300-9e61-11e9-880d-56d526c449ca.jpg" align="left" height="300" width="180" >
 
-<img src="https://github.wdf.sap.corp/storage/user/21882/files/ea7fda9a-7f7a-11e8-8e14-a404e7573804" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60650148-2ddd3980-9e61-11e9-933c-bf4d41cdc62a.jpg" align="left" height="300" width="180" >
 
-<img src="https://github.wdf.sap.corp/storage/user/21882/files/f8167c72-7f7a-11e8-9eab-bd4b8ade409a" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60650151-2ddd3980-9e61-11e9-9197-686ca84f0f91.jpg" align="left" height="300" width="180" >
 
-<img src="https://github.wdf.sap.corp/storage/user/21882/files/fc33ca62-7f7a-11e8-8271-2bafd010a90b" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60650152-2e75d000-9e61-11e9-9910-6a91d9f797e2.jpg" align="left" height="300" width="180" >
 <br/>
 <br/>
 <br/>
@@ -189,10 +189,4 @@ New Features information Added
 <br/>
 <br/>
 
-<img src="https://github.wdf.sap.corp/storage/user/21882/files/01366588-7f7b-11e8-95d2-a359f3237165" align="left" height="300" width="180" >
-
-<img src="https://github.wdf.sap.corp/storage/user/21882/files/12053ccc-7f7b-11e8-9642-974315e518ad" align="left" height="300" width="180" >
-
-<img src="https://github.wdf.sap.corp/storage/user/21882/files/40e14400-7f7b-11e8-9d85-8cef5fffb170" align="left" height="300" width="180" >
-
-<img src="https://github.wdf.sap.corp/storage/user/21882/files/48b8f858-7f7b-11e8-99c1-cd0e67318962" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60650154-2e75d000-9e61-11e9-9d4a-bb70bd4cb868.jpg" align="left" height="300" width="180" >
