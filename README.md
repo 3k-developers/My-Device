@@ -13,7 +13,7 @@ My Device is a powerful yet simple app that lets you know all the essential deta
 #1 Device information App in this Category. All the Software & Hardware details can share.
 
 You can explore the..
-** Device **
+### Device
 ★ Manufacturer
 ★ Brand
 ★ Model
@@ -25,7 +25,7 @@ You can explore the..
 ★ Boot Loader
 ★ Host
 
-** OS **
+### OS
 ★ OS Version
 ★ Release date
 ★ Supported Status
@@ -35,7 +35,7 @@ You can explore the..
 ★ Build Time
 ★ Fingerprint
 
-** CPU **
+### CPU
 ★ Memory Usage Detail graphical view
 ★ CPU Model
 ★ RAM Usages
@@ -48,7 +48,7 @@ You can explore the..
 ★ Hardware Model
 ★ Other Features
 
-** Battery **
+### Battery
 ★ Battery Type
 ★ Battery Health
 ★ Battery Level
@@ -63,7 +63,7 @@ You can explore the..
 ★ Free Storage
 ★ Total Storage
 
-** Network**
+### Network
 ★ Connection Status
 ★ Data Type
 ★ Network Type
@@ -72,7 +72,7 @@ You can explore the..
 ★ SSID
 ★ Link Speed
 
-** Camera**
+### Camera
 ★ Camera detail Specifications
 ★ Megapixels 
 ★ Aspect Ratio
@@ -82,7 +82,7 @@ You can explore the..
 ★ HDR
 ★ lots more..
 
-** Sensors**
+### Sensors
 ★ List all Sensors
 ★ Sensor Name
 ★ Int Type
@@ -93,7 +93,7 @@ You can explore the..
 ★ Maximum range
 ★ Accurate real time readings from sensors
 
-** Feature**
+### Feature
 ★ Checking all device features
 ★ WIFI
 ★ WIFI Direct
@@ -120,7 +120,7 @@ You can explore the..
 ★ SIP
 ★ SIP-based VOIP
 
-** User Apps & System Apps**
+## User Apps & System Apps
 ★ List of all User Apps and System Apps
 ★ Package names
 ★ Easy open application
