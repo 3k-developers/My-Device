@@ -6,6 +6,7 @@
 <a href='https://play.google.com/store/apps/details?id=com.anu.main.myandroid&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png' height="64" width="180" ></a>
 <a href='https://apkpure.com/my-device-device-info/com.anu.main.myandroid'><img alt='Get it on APKPure' src='https://user-images.githubusercontent.com/18279724/61268445-15eaab80-a7b9-11e9-8b99-004674454aa9.png'  ></a>
 <a href='https://3k-developers-my-device.en.aptoide.com/'><img alt='Get it on Aptoide' src='https://user-images.githubusercontent.com/18279724/61268939-b4c3d780-a7ba-11e9-9c50-ea6a8810b2ab.png'  ></a>
+<a href='https://www.amazon.com/3K-Developers-My-Device/dp/B01NAC5EHZ/ref=sr_1_2?keywords=my+device&qid=1563256684&s=gateway&sr=8-2'><img alt='Get it on Amazon store' src='https://user-images.githubusercontent.com/18279724/61269682-fbb2cc80-a7bc-11e9-83f4-f5a9f42311ce.png'  ></a>
 
 ## Screenshots Ver. 1.7.0
 
