@@ -3,13 +3,13 @@
 "My Device" is a complete device information Application with more than 3 million happy users.
 
 ## Store
-<a href='https://play.google.com/store/apps/details?id=com.anu.main.myandroid&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png' height="83" width="215" ></a>
+<a href='https://play.google.com/store/apps/details?id=com.anu.main.myandroid&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png' height="59" width="180" ></a>
 <a href='https://apkpure.com/my-device-device-info/com.anu.main.myandroid'><img alt='Get it on APKPure' src='https://user-images.githubusercontent.com/18279724/61268445-15eaab80-a7b9-11e9-8b99-004674454aa9.png'  ></a>
 <a href='https://3k-developers-my-device.en.aptoide.com/'><img alt='Get it on Aptoide' src='https://user-images.githubusercontent.com/18279724/61268939-b4c3d780-a7ba-11e9-9c50-ea6a8810b2ab.png'  ></a>
 
 ## Screenshots Ver. 1.7.0
 
-<img src="https://user-images.githubusercontent.com/18279724/60650146-2d44a300-9e61-11e9-880d-56d526c449ca.jpg" align="left" height="200" width="80" >
+<img src="https://user-images.githubusercontent.com/18279724/60650146-2d44a300-9e61-11e9-880d-56d526c449ca.jpg" align="left" height="300" width="180" >
 
 <img src="https://user-images.githubusercontent.com/18279724/60650148-2ddd3980-9e61-11e9-933c-bf4d41cdc62a.jpg" align="left" height="300" width="180" >
 
