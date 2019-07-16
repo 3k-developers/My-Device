@@ -9,7 +9,7 @@
 
 ## Screenshots Ver. 1.7.0
 
-<img src="https://user-images.githubusercontent.com/18279724/60650146-2d44a300-9e61-11e9-880d-56d526c449ca.jpg" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60650146-2d44a300-9e61-11e9-880d-56d526c449ca.jpg" align="left" height="200" width="80" >
 
 <img src="https://user-images.githubusercontent.com/18279724/60650148-2ddd3980-9e61-11e9-933c-bf4d41cdc62a.jpg" align="left" height="300" width="180" >
 
