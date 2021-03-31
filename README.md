@@ -179,6 +179,25 @@ Support and Technical Assistance:
 You can reach out to the developers via email available at the bottom of this app description. We would be glad to have your suggestions and feedback so that we can improve My Device and serve you better.
 
 ## What's New
+#### Version 2.1.0
+```
+Choose theme based on your mood.
+Support for Android 11
+German and French language support.
+Bug fixes and performance improvements
+```
+#### Version 1.10.0
+```
+New Swipe layout - Easy Navigation
+Display information
+```
+#### Version 1.9.0
+```
+New Dashboard added
+Multi Language choosen feature
+Spanish Language support
+Czech Language support
+```
 #### Version 1.8.0
 ```
 New Dark theme - Night Mode
