@@ -179,7 +179,12 @@ Support and Technical Assistance:
 You can reach out to the developers via email available at the bottom of this app description. We would be glad to have your suggestions and feedback so that we can improve My Device and serve you better.
 
 ## What's New
-
+#### Version 1.8.0
+```
+New Dark theme - Night Mode
+Reduced APK size
+New Settings Added
+```
 #### Version 1.7.0
 ```
 Thai language support.
